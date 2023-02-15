@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>microwave_door_closed.png</file>
+        <file>microwave_door_open.png</file>
+    </qresource>
+</RCC>
